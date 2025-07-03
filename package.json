@@ -1,15 +1,15 @@
 {
     "name": "akhdaniel.staruml-odoo",
     "title": "Odoo Lite",
-    "description": "Odoo code generator lite",
-    "homepage": "https://github.com/akhdaniel/staruml-odoo",
-    "issues": "https://github.com/akhdaniel/staruml-odoo/issues",
+    "description": "Odoo code generator complete",
+    "homepage": "https://github.com/GianpaoloCalzolaro/staruml-odoo-lite",
+    "issues": "https://github.com/GianpaoloCalzolaro/staruml-odoo-lites",
     "keywords": ["odoo"],
-    "version": "0.9.1",
+    "version": "1.0.0",
     "author": {
-        "name": "Akhmad D. Sembiring",
-        "email": "akhmad.daniel@gmail.com",
-        "url": "https://github.com/akhdaniel"
+        "name": "Gian Paolo Calzolaro",
+        "email": "info@infologis.biz",
+        "url": "www.infologis.biz"
     },
     "license": "MIT",
     "engines": {
